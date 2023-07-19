@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mohiuesm
 - 👀 I’m interested in leaern now things
 - 🌱 I’m currently learning management & edit
-- 💞️ I’m looking to collaborate on new obj
-- 📫 How to reach me nothing yet:)
+- 💞️ I’m looking to collaborate on new job
+- 📫 How to reach me search my id in tel.
 
 <!---
 Mohiuesm/Mohiuesm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
